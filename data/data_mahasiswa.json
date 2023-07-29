@@ -1,0 +1,32 @@
+[
+    {
+        "NIM": "4062110023",
+        "Nama": "Andhika",
+        "Jenis Kelamin": "Laki-laki",
+        "Jurusan": "Informatika",
+        "Mata Kuliah": "English For Bussiness",
+        "Nilai": "95",
+        "Grade": "A",
+        "Ket": "Lulus"
+    },
+    {
+        "NIM": "402123124",
+        "Nama": "Raffly",
+        "Jenis Kelamin": "Laki-laki",
+        "Jurusan": "Sistem Komunikasi",
+        "Mata Kuliah": "English For Bussiness",
+        "Nilai": "60",
+        "Grade": "E",
+        "Ket": "Tidak Lulus"
+    },
+    {
+        "NIM": "40621100022",
+        "Nama": "Andhika",
+        "Jenis Kelamin": "Laki-laki",
+        "Jurusan": "Teknik Sipil",
+        "Mata Kuliah": "Agama",
+        "Nilai": "80",
+        "Grade": "C",
+        "Ket": "Lulus"
+    }
+]
